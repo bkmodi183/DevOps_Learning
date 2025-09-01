@@ -1,0 +1,22 @@
+Commands learnt so far:
+1. mkdir -> command is used to create a directory
+2. touch -> command is used to create a file
+3. pwd -> used to check your present working directory
+4. whoami -> used to check with which user you are connected with the server
+5. uname -> used to check which Kerenel you are using. In our case we are using linux.
+7. cd -> used to change the directory
+8. cd ..-> used to go back to preveious directory
+9. / -> root directory. Everthing begins from here
+10. sudo su -> this commands lets you do something as a super user which has the permissions equivivalent to root user
+11. su -> used to swith user
+12. useradd username -> used to add the users
+13. cat -> used to see the content of the file
+14. /etc/passwd username -> used to create password for the user
+15. sudo cat /etc/passwd -> is used to check the existing user list
+16. userdel username -> user to delete the existing user
+17. groupadd  groupname -> is user to create group
+18. sudo cat /etc/groups -> used to check  exisitng groups in the server
+19. groupdel groupname -> to delete the group
+20. getacl path(/home/Folder/file.txt) -> this command is used to check what are the permissions for a file directory or a user has.
+21. sudo usermod -aG group_name username -> used to add user into the group
+  
