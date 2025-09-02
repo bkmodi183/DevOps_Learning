@@ -1,8 +1,0 @@
-This is dev file feature 1 added.
-<<<<<<< HEAD
-
-This is dev file feature 2 added.
-
-This is dev file feature 3 added.
-=======
->>>>>>> parent of 2bc5d3a (dev_file modified feature 2 added)
